@@ -79,5 +79,5 @@ Pictured: An example of the grid/multi tag view.
 - _File > Remote console_ - doesn't do anything
 - _Edit > Remote command view_ - doesn't do anything
 - _Edit > Drop object_ - doesn't do anything
-- _File > Mixing board_ - not sure what this does
+- _File > Mixing board_ - opens a window with direct access to all sound and cinematic director functions, and an ability to copy functional settings to clipboard for use in console or script commands
 - _File_ > Print - The print menu items don't do anything.
